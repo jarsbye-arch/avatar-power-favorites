@@ -1,4 +1,4 @@
-// Peta kategori -> AssetTypeId Roblox
+/ Peta kategori -> AssetTypeId Roblox
 const CATEGORIES = {
   hat: 8,
   hair: 41,
